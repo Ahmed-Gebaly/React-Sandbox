@@ -1,7 +1,7 @@
 
 # React Sandbox
 
-This project is a **React Sandbox** environment designed for experimenting, prototyping, and learning with React components and features. Use this sandbox to quickly test ideas, explore React APIs, or share reproducible examples with others. It is not intended for production use, but as a safe space to try out React code in isolation.
+**React-Sandbox** is a personal playground for learning, experimenting, and practicing React concepts, patterns, and tools through hands‑on examples and mini projects.
 
 # React + Vite
 
